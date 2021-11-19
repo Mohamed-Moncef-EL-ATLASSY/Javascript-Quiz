@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'main.js'?",
+    "choice1": "<script href='main.js'>",
+    "choice2": "<script name='main.js'>",
+    "choice3": "<script src='main.js'>",
+    "choice4": "<script file='main.js'>",
+    "answer": 3
+  },
+  {
+    "question": "What is the correct syntax for referring to an external style called 'style.css'?",
+    "choice1": "<link href='style.css'>",
+    "choice2": "<link name='style.css'>",
+    "choice3": "<link src='style.css'>",
+    "choice4": "<link file='style.css'>",
+    "answer": 1
+  },
+  {
+    "question": " How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  },
+  {
+    "question": " What does PHP stand for?",
+    "choice1": "Hypertext Preprocessor",
+    "choice2": "Hometext Preprocessor",
+    "choice3": "Hypertext Preprogramming",
+    "choice4": "Hypertext Programming",
+    "answer": 1
+  },
+  {
+    "question": " What does SQL stand for?",
+    "choice1": "Stylish Question Language",
+    "choice2": "Stylesheet Query Language",
+    "choice3": "Statement Question Language",
+    "choice4": "Structured Query Language",
+    "answer": 4
+  },
+  {
+    "question": " What does XML stand for?",
+    "choice1": "eXecutable Multiple Language",
+    "choice2": "eXtensible Markup Language",
+    "choice3": "eXTra Multi-Program Language",
+    "choice4": "eXamine Multiple Language",
+    "answer": 2
+  },
+  {
+    "question": " What does CSS stand for?",
+    "choice1": "Creative Style Sheets",
+    "choice2": "Cascading Style Sheets",
+    "choice3": "Computer Style Sheets",
+    "choice4": "Colorful Style Sheets",
+    "answer": 2
+  }
+]
